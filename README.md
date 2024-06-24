@@ -4,6 +4,10 @@
 
 > The best naming conventions to follow to avoid unnecessary complications in your coding projects.
 
+<!-- # Naming the Projects. -->
+
+<!-- # Naming the Files and Folders (Directories). -->
+
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
